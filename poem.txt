@@ -1,4 +1,4 @@
-Colors of rainbow
+Colors of rainbow and Unicorn
 
 Voilet
 Indigo
@@ -7,3 +7,6 @@ Green
 Yellow
 Orange
 Red
+Unicorn
+
+Rainbows and unicorn are super.
