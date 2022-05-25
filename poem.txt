@@ -3,3 +3,5 @@ Colors of rainbow
 Voilet
 Indigo
 Blue
+Green 
+Yellow
